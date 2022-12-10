@@ -1,2 +1,2 @@
-# go-rest-api
-Golang RestAPI Sample Project
+# go-first-project
+Golang First Sample Project
